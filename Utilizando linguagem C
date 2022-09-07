@@ -1,0 +1,9 @@
+#include <stdbool.h>
+int main() {
+    int idade;
+    int classificação indicativa;
+    char nome;
+    char resposta;
+}
+    
+
