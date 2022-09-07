@@ -1,0 +1,14 @@
+Algoritmo <Filme_indicado_ou_contraindicado>
+
+[Variáveis: 
+<Idade do cliente>, <Classificação indicativa do filme> ,<resultado> ]
+
+Início
+Leia (idade do cliente) 
+Leia (Classificação indicativa do filme)
+Se  Idade do cliente>Classificação indicativa do filme ou Idade do cliente=Classificação indicativa do filme então
+         escreva (“Este filme é indicado para sua faixa etária”)
+Se Idade do cliente<Classificação indicativa do filme então
+       escreva (“Este filme não é indicado para sua faixa etária”)
+Fim-se
+
